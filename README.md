@@ -40,6 +40,9 @@ storage_locations – Details on where samples are stored
 
 audit_logs – Keeps a record of actions for accountability
 
+![bloodlabERD](https://github.com/user-attachments/assets/a894befe-e9e9-4a2e-925f-0606363577e8)
+
+
 ## 🚀 Purpose and Learning Goals
 This project is part of my portfolio as I learn software development through the Power Learn Project Academy. I'm particularly interested in how data is structured and used in workplace systems. By building this schema, I gained experience in:
 
