@@ -1,4 +1,4 @@
-## 🩸 Blood Pathology Lab Database Schema
+# 🩸 Blood Pathology Lab Database Schema
 This project is a Blood Bank Database Schema designed as part of my learning journey in the Power Learn Project Academy's Software Development Program. It showcases how I’m applying database design principles to solve real-world problems in healthcare data management.
 
 ## 📘 Overview
@@ -21,7 +21,7 @@ Sample tracking using barcodes or QR codes
 ## 🛠️ Technologies Used
 MySQL – Database schema design and relationships and  ERD visualization 
 
-# 📂 Schema Highlights
+## 📂 Schema Highlights
 The schema includes the following tables:
 
 doctors – Stores doctor information
